@@ -25,11 +25,10 @@ Proland is a sleek, responsive **product landing page** built with **Bootstrap 5
 ---
 
 ## 📂 Folder Structure
-proland-airpods/
+proland-airpods
 ├── index.html
-├── /assets
-│ ├── /images
-│ └── /icons
+├── assets
+│ ├── images
 └── README.md
 
 ---
