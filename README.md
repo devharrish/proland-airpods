@@ -31,6 +31,12 @@ proland-airpods
 │ ├── images
 └── README.md
 
++---proland-airdopes
+|   |   index.html
+|   \---assets
+|           images
+\---README.md
+
 ---
 
 ## 🧑‍💻 How to Run the Project
